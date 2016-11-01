@@ -8,11 +8,12 @@ For building own HEX-files from the INO-files.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Install compiled HEX files from the cloud system.
 
-## API Reference
+## Further reading
 
-Link to the API documentation will be provided later.
+Used API documentation can be found under riots-libraries/doc directory.
+More information, including HW product information can be found from the [RIOTS store] (http://www.riots.fi/developer-kits.html)
 
 ## License
 
